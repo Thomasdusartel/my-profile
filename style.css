@@ -1,0 +1,37 @@
+h1 {
+color: red;
+font-family: helvetica;
+
+} 
+
+body {
+	background-color: rgb(235,235,235);
+}
+h2 {
+color: blue;
+}
+
+div {
+	   border: 1px solid red;
+   background: white;
+   border-radius: 10px;
+   padding: 90px;
+   margin: 40px
+   text-align: center;
+}
+
+
+#img-circle {
+	border-radius: 50%
+
+}
+
+
+.btn-blue {
+	background-color: #23395B;
+	color: white;
+	font-weight: bold; 
+	padding: 15px;
+	border-radius: 4px;
+	text-decoration: none;
+}
